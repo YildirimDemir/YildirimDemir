@@ -4,7 +4,6 @@
     <ul>
         <li>💻 I’m currently learning <strong style="padding: 5px 10px; border-radius: 20px; background: rgba(255, 255, 255, 0.3); margin: 5px;">MongoDB</strong></li>
         <li>❔Ask me about <strong style="padding: 5px 10px; border-radius: 20px; background: rgba(255, 255, 255, 0.3); margin: 5px;">JavaScript, React, NodeJS, Express and MongoDB</strong></li>
-        <li>📬 How to reach me <strong style="padding: 5px 10px; border-radius: 20px; background: rgba(255, 255, 255, 0.3); margin: 5px;">yildirimdemir77@gmail.com</strong></li>
     </ul>
     <p align="left">
     </p>
