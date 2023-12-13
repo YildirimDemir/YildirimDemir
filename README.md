@@ -1,10 +1,6 @@
 <h1 align="center">Yıldırım Demir</h1>
     <h3 align="center">Full Stack Web Developer</h3>
     <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-    <ul>
-        <li>💻 I’m currently learning <strong style="padding: 5px 10px; border-radius: 20px; background: rgba(255, 255, 255, 0.3); margin: 5px;">MongoDB</strong></li>
-        <li>❔Ask me about <strong style="padding: 5px 10px; border-radius: 20px; background: rgba(255, 255, 255, 0.3); margin: 5px;">JavaScript, React, NodeJS, Express and MongoDB</strong></li>
-    </ul>
     <p align="left">
     </p>
     <h3 align="left">Languages and Tools:</h3>
