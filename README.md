@@ -27,13 +27,6 @@ src="https://img.shields.io/github/followers/YildirimDemir?logo=github&style=for
 
 <a href="http://www.github.com/YildirimDemir"><img src="https://github-readme-stats.vercel.app/api?username=YildirimDemir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="YildirimDemir's GitHub stats" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/YildirimDemir/SocialMediaApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YildirimDemir&repo=SocialMediaApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/YildirimDemir/Blog-NewsProject-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YildirimDemir&repo=Blog-NewsProject-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/YildirimDemir/Blog-NewsProject-Admin" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YildirimDemir&repo=Blog-NewsProject-Admin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/YildirimDemir/Blog-NewsProject-Editor" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YildirimDemir&repo=Blog-NewsProject-Editor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div>
 
 
 
