@@ -4,7 +4,7 @@ Hi 👋 My name is Yıldırım
 Full Stack Developer
 --------------------
 
-I do web development with Full stack. I write my projects with Typescript.  <br /> <br />
+I do web development with NestJs and NextJS. I write my projects with Typescript.  <br /> <br />
 With every new project I do, I try to do better than the previous ones. I make up for my previous mistakes and improve myself by adding new things to them. You can see these improvements in my past repos.
 
 <a href="https://www.github.com/YildirimDemir" target="_blank" rel="noreferrer"><img
